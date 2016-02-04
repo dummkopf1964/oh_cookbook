@@ -1,2 +1,2 @@
 # oh_cookbook
-learning github
+Following Git Essentials by Ferdinando Santacroce
